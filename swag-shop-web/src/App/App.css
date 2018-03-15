@@ -14,6 +14,10 @@
   color: white;
 }
 
+.App-main {
+  padding-top: 35px;
+}
+
 .App-intro {
   font-size: large;
 }
